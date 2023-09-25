@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@cycle-robot-drivers/run": "0.0.21",
+    "xstream": "11.7.0",
+    "@tensorflow-models/posenet": "0.2.2",
+    "@tensorflow/tfjs": "0.10.3"
+  }
+}
